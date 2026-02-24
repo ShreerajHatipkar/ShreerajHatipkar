@@ -2,7 +2,7 @@
 **Shreeraj (Raj) Hatipkar**  
 Founder & CEO, WellPredict
 
-- **Education**: MSc Business Intelligence, University of Westminster (Class of 2023, Alumni ID: W19200978)
+- **Education**: MSc Business Intelligence, University of Westminster
 - **Background**: Former Marks & Spencer, Business Intelligence & Data Analytics
 - **Location**: United Kingdom
 - **Visa Route**: UK Innovator Visa (endorsed based on patent-pending technology and commercial viability)
